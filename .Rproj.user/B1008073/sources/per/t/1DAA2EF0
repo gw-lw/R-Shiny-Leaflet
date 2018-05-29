@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1512948514937.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2666390846",
+    "id" : "1DAA2EF0",
+    "lastKnownWriteTime" : 1513026506,
+    "last_content_update" : 1513026506825,
+    "path" : "D:/NAOGONG/2017Fall/ProgrammingForAnalytics/Individual Project/Bike/server.R",
+    "project_path" : "server.R",
+    "properties" : {
+        "cursorPosition" : "71,54",
+        "scrollLine" : "60",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

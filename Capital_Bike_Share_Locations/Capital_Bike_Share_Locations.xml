@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<origin/>
+<title>DCGIS.CapitalBikeSharePt</title>
+<geoform>vector digital data</geoform>
+<lworkcit>
+<citeinfo>
+<title>DC Geographic Information System</title>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</citation>
+<descript>
+<abstract>The dataset contains locations and attributes of Capital Bike Share sites, created as part of the DC Geographic Information System (DC GIS) for the D.C. Office of the Chief Technology Officer (OCTO) and participating D.C. government agencies. A database provided by Department of Real Estate Services identified Capital Bike Share locations. These are offer bikes to travel throughout the District for a fee. All DC GIS data is stored and exported in Maryland State Plane coordinates NAD 83 meters.</abstract>
+<purpose>Capital bike share locations used for the planning and management of Washington, D.C. by local government agencies.</purpose>
+</descript>
+<status>
+<progress>Complete</progress>
+<update>As needed</update>
+</status>
+<spdom>
+<bounding>
+<westbc>-77.176</westbc>
+<eastbc>-76.896</eastbc>
+<northbc>39.035</northbc>
+<southbc>38.755</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>None</themekt>
+<themekey>bicycle</themekey>
+<themekey>transportation</themekey>
+</theme>
+<theme>
+<themekt>ISO 19115 Topic Categories</themekt>
+<themekey>transportation</themekey>
+</theme>
+<place>
+<placekt>None</placekt>
+<placekey>District of Columbia</placekey>
+<placekey>DCGIS</placekey>
+<placekey>Washington</placekey>
+<placekey>D.C.</placekey>
+<placekey>DC GIS</placekey>
+<placekey>DC</placekey>
+</place>
+</keywords>
+<accconst>Capital Bikeshare, Largest Bikeshare Program in the United States, Rolls Out in Washington, D.C. and Arlington, VA Posted: September 20, 2010 Newest Regional Transportation System Launched With Much Fanfare and Anticipation (Washington, D.C.) - Mayor Adrian M. Fenty, U.S. Department of Transportation Assistant Secretary for Transportation Policy Polly Trottenberg, Congresswoman Eleanor Holmes Norton (D, DC), Arlington County Board Chair Jay Fisette, District Department of Transportation Director (DDOT) Gabe Klein, and other local and regional partners, representatives, supporters and bike enthusiasts launched the highly anticipated regional bikeshare system, Capital Bikeshare, today. "What a glorious morning for a bike ride," said Mayor Fenty . "What we have been able to accomplish and launch here today will be a legacy for a healthier, more vibrant city providing options for travelers looking for an alternate way to travel throughout the region now and for future generations." Amidst much fanfare, hundreds of bike enthusiasts from the District, Virginia and Maryland joined in a mass deployment of the first phase of bikes to populate recently installed stations located throughout the District and Arlington (100 in the District, 14 in Arlington). The entire fleet of 1100 bikes and all the stations are scheduled to be fully operational by late October. "What a fantastic day for the region," said DDOT Director Klein. "By the end of October, residents, visitors, employees and commuters will be able to pick up a bike in over 100 locations throughout DC and Arlington and use it to go all over the area. It is not only bikesharing, it is a new bike transportation network. The installation of bike lanes, bike signals and now this bikeshare program will provide people with safer routes throughout the city and into Arlington. Capital Bikeshare connects to Metro and Circulator routes providing more options and a more balanced approach to transportation." A sea of vibrant red Capital Bikeshare bikes served as the backdrop for the event. Capital Bikeshare is an expansion of an already popular bike transit system DDOT launched in 2007. Demand for a more robust system was the catalyst for the development of a larger regional system and the DC region now boasts the largest bikesharing system in the United States. "Capital Bikeshare adds another option to the transportation mix," said Jay Fisette, chairman of the Arlington County Board. "It is a perfect fit for Arlington's Car-Free Diet as bikesharing also helps to reduce emissions and increase healthy activity. We are pleased to partner with D.C. and look forward to expanding Capital Bikeshare to more locations in Arlington, D.C. and the entire metro area." The $6M bikeshare program is funded in the District by the U.S. Department of Transportation's Federal Highway Administration under their Congestion, Mitigation and Air Quality (CMAQ) fund, local funding (80/20). The Crystal City Business Improvement District helped Arlington with a sizeable $200,000 contribution. Over 1,000 people have already signed up for Capital Bikeshare with numbers increasing daily. To sign up simply go to the Capital Bikeshare website, www.capitalbikeshare.com and click "Join". Membership options include 24-hour ($5), 30-day ($25) and annual memberships ($75). As a special introductory price, annual memberships are being offered for just $50. The first 2,000 people to sign up will become Capital Bikeshare Founding Members and receive a t-shirt as well as a limited edition Capital Bikeshare membership key. The first 30 minutes of each trip are absolutely free. DDOT and Arlington County will also be partnering with Bank on DC to ensure Capital Bikeshare is accessible to all District and Arlington residents. A credit or debit card is required to sign up for Capital Bikeshare. Bank on DC and two of its sponsors, Amalgamated Bank and District Government Employees Federal Credit Union, will give area residents the ability to open a bank account and get on the road with Capital Bikeshare. The partners are finalizing details and identifying ways to reduce cost barriers for Bank on DC account holders. Capital Bikeshare will be similar to a system the Public Bike System Company (PBSC), based in Montreal, produced, commonly known as BIXI. The BIXI system has been running in Montreal since 2009 as well as recently launched in Minneapolis, London, and Melbourne, Australia. BIXI bike sharing stations are solar powered and use wireless technology to allow for easy installation and adjustments. The brilliant red Capital Bikeshare bicycles features: 3-speed, internal hub gears, fenders, chain guard, lights, a low step-through design, and a front rack. Alta Bicycle Share will operate the system. Alta Bicycle Share is a US-based company focused on management and operation of bicycle share systems globally. Its sister company, Alta Planning + Design, is the largest bicycle and pedestrian consulting company in the United States. Alta Bicycle Share is implementing or consulting on similar programs in Australia, Europe, China, and other locations in the United States. The bikes are also scheduled to be the highlight of the Monday night baseball game at National's stadium when the four Presidents race around the field on the brilliant red bikes. Fans of the Nationals and Capital Bikeshare alike will cheer as the mascots race to the finish. A map showing live stations can be viewed at www.capitalbikeshare.com. Keep a look out as it will be updated regularly as new stations come on line through late October.</accconst>
+<useconst>This work is licensed under a Creative Commons Attribution 4.0 International License.</useconst>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>Office of the Chief Technology Officer</cntorg>
+<cntper>GIS Data Coordinator</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical</addrtype>
+<address>441 4th ST NW, Suite 930 South</address>
+<city>Washington</city>
+<state>DC</state>
+<postal>20001</postal>
+<country>US</country>
+</cntaddr>
+<cntfax>202-727-5660</cntfax>
+<cntemail>dcgis@dc.gov</cntemail>
+<hours>9am - 5pm</hours>
+</cntinfo>
+</ptcontac>
+<datacred>District Department of Transportation</datacred>
+<native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.2.6.1500</native>
+</idinfo>
+<dataqual>
+<attracc>
+<attraccr>In process of validation by source and/or responsible agency. Final dataset will come from DDOT in December once all the stations are open.</attraccr>
+</attracc>
+<logic>Validated by source and/or responsible agency</logic>
+<complete>Validated by source and/or responsible agency</complete>
+<posacc>
+<horizpa>
+<horizpar>GPS captures withi 5 meters.</horizpar>
+</horizpa>
+<vertacc>
+<vertaccr>N/A</vertaccr>
+</vertacc>
+</posacc>
+<lineage>
+<srcinfo>
+<srccite>
+<citeinfo>
+<pubdate>20111105</pubdate>
+<title>Capital Bike Share Locations</title>
+</citeinfo>
+</srccite>
+<typesrc>onLine</typesrc>
+<srccitea>Capital Bike Share Locations</srccitea>
+<srccontr>location and attribution</srccontr>
+</srcinfo>
+<procstep>
+<procdesc>OCTO GIS staff generated x,y coordinates from the latitude and longitude columns contained in the DRES database. Staff then projected the layer to MD state plane NAD 1983, units meters to fit with the other District data.</procdesc>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>Office of the Chief Technology Officer</cntorg>
+<cntper>GIS Data Coordinator</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical</addrtype>
+<address>441 4th St NW, Suite 930 South</address>
+<city>Washington</city>
+<state>DC</state>
+<postal>20001</postal>
+<country>US</country>
+</cntaddr>
+<cntfax>202-727-5660</cntfax>
+<cntemail>dcgis@dc.gov</cntemail>
+<hours>9am - 5pm</hours>
+</cntinfo>
+</proccont>
+</procstep>
+</lineage>
+</dataqual>
+<spdoinfo>
+<direct>Vector</direct>
+<ptvctinf>
+<sdtsterm>
+<sdtstype>Entity point</sdtstype>
+<ptvctcnt>0</ptvctcnt>
+</sdtsterm>
+<sdtsterm>
+<sdtstype>Entity point</sdtstype>
+<ptvctcnt>0</ptvctcnt>
+</sdtsterm>
+</ptvctinf>
+</spdoinfo>
+<eainfo>
+<detailed>
+<enttyp>
+<enttypl>DCGIS.CapitalBikeSharePt</enttypl>
+</enttyp>
+<attr>
+<attrlabl>TEMPORARY_INSTALL</attrlabl>
+</attr>
+<attr>
+<attrlabl>TERMINAL_NUMBER</attrlabl>
+<attrdef>Capital Bike Share Terminal Number</attrdef>
+</attr>
+<attr>
+<attrlabl>REMOVAL_DATE</attrlabl>
+</attr>
+<attr>
+<attrlabl>ADDRESS</attrlabl>
+<attrdef>Capital Bike Share Address and Location</attrdef>
+</attr>
+<attr>
+<attrlabl>LOCKED</attrlabl>
+</attr>
+<attr>
+<attrlabl>INSTALL_DATE</attrlabl>
+<attrdef>Install date of bike share station - currently set to null because the source value is zero</attrdef>
+</attr>
+<attr>
+<attrlabl>NUMBER_OF_BIKES</attrlabl>
+</attr>
+<attr>
+<attrlabl>NUMBER_OF_EMPTY_DOCKS</attrlabl>
+</attr>
+<attr>
+<attrlabl>SE_ANNO_CAD_DATA</attrlabl>
+</attr>
+<attr>
+<attrlabl>X</attrlabl>
+<attrdef>Capital Bike Share X coordinate</attrdef>
+</attr>
+<attr>
+<attrlabl>Shape</attrlabl>
+<attrdef>Feature geometry</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+</attr>
+<attr>
+<attrlabl>OBJECTID</attrlabl>
+<attrdef>Internal feature number.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+</attr>
+<attr>
+<attrlabl>LONGITUDE</attrlabl>
+</attr>
+<attr>
+<attrlabl>Y</attrlabl>
+<attrdef>Capital Bike Share Y Coordinate</attrdef>
+</attr>
+<attr>
+<attrlabl>LATITUDE</attrlabl>
+</attr>
+<attr>
+<attrlabl>ID</attrlabl>
+<attrdef>Capital Bike Share ID</attrdef>
+</attr>
+<attr>
+<attrlabl>SHAPE</attrlabl>
+<attrdef>Feature geometry.</attrdef>
+<attrdefs>ESRI</attrdefs>
+<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+</attr>
+<attr>
+<attrlabl>INSTALLED</attrlabl>
+</attr>
+</detailed>
+</eainfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>DC Office of the Chief Technology Officer</cntorg>
+<cntper>GIS Data Coordinator</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical</addrtype>
+<address>441 4th St NW, Suite 930 South</address>
+<city>Washington</city>
+<state>DC</state>
+<postal>20001</postal>
+<country>US</country>
+</cntaddr>
+<cntfax>(202) 727-5660</cntfax>
+<cntemail>dcgis@dc.gov</cntemail>
+<hours>8:30 am - 5:30 pm</hours>
+</cntinfo>
+</distrib>
+<distliab>Acknowledgment of the DC Geographic Information Systems Program (DC GIS). The District of Columbia Government makes no claims as to the completeness, accuracy or content of any data contained hereon, and makes no representation of any kind, including, but not limited to, the warranty of the accuracy or fitness for a particular use, nor are any such warranties to be implied or inferred with respect to the information or data furnished herein.</distliab>
+<custom>Most DC GIS datasets can be downloaded from "http://dcgis.dc.gov" on the data center page. Orders can also be made by contacting OCTO GIS at "dcgis@dc.gov", especially for datasets not available for download.</custom>
+</distinfo>
+<metainfo>
+<metd>20110107</metd>
+<metrd>&lt;publication date - format dd/mm/yyyy&gt;</metrd>
+<metc>
+<cntinfo>
+<cntorgp>
+<cntorg>D.C. Office of the Chief Technology Officer</cntorg>
+<cntper>GIS Data Coordinator</cntper>
+</cntorgp>
+<cntaddr>
+<addrtype>mailing and physical</addrtype>
+<address>441 4th St NW, Suite 930 South</address>
+<city>Washington</city>
+<state>DC</state>
+<postal>20001</postal>
+<country>US</country>
+</cntaddr>
+<cntfax>(202) 727-5660</cntfax>
+<cntemail>dcgis@dc.gov</cntemail>
+<hours>8:30 am - 5 pm</hours>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+</metainfo>
+</metadata>
